@@ -9,4 +9,4 @@ def greet(name ="Naureen" )
     puts "Hello, #{name}!"
 end
 
-greet
+gr

@@ -5,8 +5,4 @@ end
 
 greet_programmer
 
-def greet(name ="Naureen" )
-    puts "Hello, #{name}!"
-end
-
-greet
+def greet(name ="" )
