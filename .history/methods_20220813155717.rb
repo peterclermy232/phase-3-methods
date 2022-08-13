@@ -1,6 +1,6 @@
 # Your code here!
 def greet_programmer 
-   puts "Hello, programmer!"
+   put "Hello, programmer!"
 end
 
 greet_programmer
