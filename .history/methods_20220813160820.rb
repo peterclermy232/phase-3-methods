@@ -19,14 +19,4 @@ end
 
  greet_with_default "Sunny"
 
- def add(num1,num2)
-    puts num1 + num2
-
- end
-
- def halve(num)
-    return nil unless num.class == Integer
-    
-    num / 2
-  end
-  
+ 
