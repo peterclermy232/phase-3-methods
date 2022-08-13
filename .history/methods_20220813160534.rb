@@ -15,6 +15,3 @@ def greet_with_default(name = "programmer")
     puts "Hello, #{name}!"
 
 end
- greet_with_default
-
- greet_with_default "Sunny"

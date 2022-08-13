@@ -17,4 +17,4 @@ def greet_with_default(name = "programmer")
 end
  greet_with_default
 
- greet_with_default "Sunny"
+ greet_with_default "sunny"
